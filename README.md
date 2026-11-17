@@ -106,7 +106,7 @@ Score: **92.05 / 100**
 
 ## 📈 GitHub Overview
 
-> Replace `YOUR_GITHUB_USERNAME` in the image URLs with your GitHub username to show your own activity.
+> Replace `aira1001` in the image URLs with your GitHub username to show your own activity.
 
 <div align="center">
 
