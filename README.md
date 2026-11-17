@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="assets/coding-cat.gif" width="190" alt="A cute coding cat floating with its laptop"/>
+<img src="assets/cat-giphy-code.gif" width="190" alt="A cute coding cat floating with its laptop"/>
 
 **Build • Learn • Grow**
 
